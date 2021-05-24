@@ -1,1 +1,12 @@
-theme: jekyll-theme-midnight
+# Config settings
+title: Jekyll Ideal Image Slider Include Demo
+baseurl: "/jekyll-ideal-image-slider-include"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

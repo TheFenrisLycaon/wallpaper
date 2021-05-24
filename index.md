@@ -1,2 +1,3 @@
-## Welcome to Wallpapers
-
+---
+layout: home
+---
