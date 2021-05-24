@@ -6,4 +6,4 @@ image_sliders:
 
 ---
 
-{% include slider.html selector="slider" %}
+{% include carousel.html height="50" unit="%" duration="7" %}
