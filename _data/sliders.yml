@@ -1,10 +1,10 @@
 - selector: slider
   images:
-    - src: "https://github.com/TheFenrisLycaon/wallpaper/blob/master/Wall%201.jpg"
+    - href: "https://github.com/TheFenrisLycaon/wallpaper/blob/master/Wall%201.jpg"
       title: ascascq
-    - src: "https://github.com/TheFenrisLycaon/wallpaper/blob/master/Wall%1.jpg"
+    - href: "https://github.com/TheFenrisLycaon/wallpaper/blob/master/Wall%1.jpg"
       title: casc
-    - src: "https://github.com/TheFenrisLycaon/wallpaper/blob/master/Wall%10.jpg"
+    - href: "https://github.com/TheFenrisLycaon/wallpaper/blob/master/Wall%10.jpg"
   settings:
     height: "'auto'"
     effect: "'fade'"
