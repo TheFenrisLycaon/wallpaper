@@ -1,4 +1,4 @@
-- selector: slider2
+- selector: slider
   bullets: true
   captions: true
   images:
