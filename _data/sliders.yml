@@ -1,13 +1,10 @@
 - selector: slider
   images:
-    - src: /img/1.jpg
-      title: Balloons!
-    - data-src: /img/2.jpg
-      title: This slider uses the fade effectt
-    - data-src: /img/3.jpg
-      data-src-2x: /img/3@2x.jpg
-    - src: /img/4.jpg
-      title: Last image had no caption!
+    - src: "https://github.com/TheFenrisLycaon/wallpaper/blob/master/Wall%201.jpg"
+      title: ascascq
+    - src: "https://github.com/TheFenrisLycaon/wallpaper/blob/master/Wall%1.jpg"
+      title: casc
+    - src: "https://github.com/TheFenrisLycaon/wallpaper/blob/master/Wall%10.jpg"
   settings:
     height: "'auto'"
     effect: "'fade'"
