@@ -1,10 +1,10 @@
 # Config settings
-title: Jekyll Ideal Image Slider Include Demo
-baseurl: "/jekyll-ideal-image-slider-include"
+title : Wallpapers
+baseurl: "/wallpaper"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: miidnight
 plugins:
   - jekyll-feed
 exclude:
