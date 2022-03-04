@@ -1,6 +1,4 @@
 [Dolphin]
-GroupedSorting=true
-SortRole=type
-Timestamp=2021,5,28,13,56,59.425
+Timestamp=2022,3,4,10,46,37.752
 Version=4
-VisibleRoles=Icons_text,Icons_size
+VisibleRoles=Icons_text
